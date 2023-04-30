@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+.darkmode {
+  background-color: black;
+  color: white;
+}
+
+button {
+  margin-top: 25%;
+  margin-left: 50%;
+  height: 80px;
+  width: 80px;
+  border-radius: 80%;
+}
